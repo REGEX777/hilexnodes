@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+.top{
+    font-family: 'Titillium Web', sans-serif;
+    display: flex;
+    margin-top: 50px;
+    height: 400px;
+    margin-bottom: 200px;
+}
+.vertical-center {
+    display: flex;
+  }
+.tagline{
+    font-size: 60px;
+}
+.specs{
+    margin-right: 200px;
+    display: inline-block;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    height: 400px;
+    width: 400px;
+}
+.main_img{
+    float: right;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.cards-con{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    float: right;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+.accordion{
+    width: 90%;
+}
+.footer{
+    margin-top: 200px;
+}
+.button{
+    margin-top: 40px;
+}
+.fl{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+.pricing{
+
+    width: 70%;
+}
+.h1_cr{
+    text-align: center;
+}
+.h1_dr{
+    text-align: center;
+    margin-top: 100px;
+}
+.h1_pr{
+    text-align: center;
+    margin-top: 100px;
+}
+.f3{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.f2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    margin-top: 80px;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+li{
+    list-style: none;
+}
